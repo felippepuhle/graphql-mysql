@@ -1,0 +1,26 @@
+{
+  "name": "graphql-mysql",
+  "version": "1.0.0",
+  "description": "\"# graphql-mysql\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felippepuhle/graphql-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felippepuhle/graphql-mysql/issues"
+  },
+  "homepage": "https://github.com/felippepuhle/graphql-mysql#readme",
+  "dependencies": {
+    "babel-preset-node5": "^12.0.1",
+    "faker": "^3.1.0",
+    "lodash": "^4.17.4",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.1"
+  }
+}
